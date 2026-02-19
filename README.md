@@ -3,7 +3,6 @@
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Status](https://img.shields.io/badge/status-internal%20tool-orange)
-![Security](https://img.shields.io/badge/access-admin%20only-red)
 
 A lightweight SQL execution handler designed for **admin-only Discord bot usage** with Supabase.
 
